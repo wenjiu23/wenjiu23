@@ -10,39 +10,3 @@
 📊 让我们来看看我今年在开源社区取得的一些成就吧：<br>
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanchengcyu&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanchengcyu&layout=compact)](https://github.com/nanchengcyu/github-readme-stats)
-## 我的技能  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-< img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-  
-  
-  
-  
-  
-  
-  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-<a href="https://redux.js.org/" target="_blank">< img style="ma
